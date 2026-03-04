@@ -40,4 +40,4 @@
 ![Scrum](https://img.shields.io/badge/Scrum-0D47A1?style=for-the-badge&logo=scrum&logoColor=white)
 
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueG15&show_icons=true&locale=en&layout=compact&theme=nord" alt="josuegarcia" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueG15&layout=compact&theme=nord&cache_seconds=86400" /></p>
